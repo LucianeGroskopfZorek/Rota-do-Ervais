@@ -1,0 +1,6 @@
+{
+  "name": "Projeto Conecta+ | Turismo Rural Canoinhas SC",
+  "description": "Plataforma de turismo rural, gastronômico e ecológico em Canoinhas SC. Roteiros em fazendas, trilhas, pousadas, geolocalização por proximidade e dashboard para produtores rurais.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
